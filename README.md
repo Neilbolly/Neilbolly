@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Neilbolly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Neilbolly&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilbolly&langs_count=8)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Neilbolly&theme=radical&no-frame=false&no-bg=true&margin-w=4)
